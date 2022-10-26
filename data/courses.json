@@ -1,0 +1,56 @@
+[
+  {
+    "id": "635887cb55b52cab07c2d2e3",
+    "category_id": 1,
+    "picture": "https://i.ibb.co/xSTQ1nN/cb88-java-logo-001.jpg",
+    "title": "Java full course with certificate",
+    "details": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.",
+    "students": "400",
+    "fee": "5500"
+  },
+  {
+    "id": "635887cb105d6b0793b759a9",
+    "category_id": 2,
+    "picture": "https://i.ibb.co/S0qhVJC/img.png",
+    "title": "node js and express js full course",
+    "details": "Hello there,Welcome to NodeJS complete course | Node JS & Express JS for Beginners course.NodeJS and React are javascript languages. Node.js is a great way to get into Full Stack web development. Node JS and Express JS.Nodejs, node js, Express js, node, react, node.js, the complete node.js, Express, node js for beginners, node js Express, nodejs beginner, nodejs Express, nodejs for beginnerNode and Express are growing web server technologies. By learning Node with Express, you can improve your skills, get a new job and you can build a powerful, robust backend.Learning Node.js is a great way to get into backend web development, or expand your full stack development practice. With my course hands-on Node.js course on Udemy, you can learn the concepts and applications of this wildly useful JavaScript runtime.This course is designed to be a comprehensive approach to Node.JS and Express, no prior knowledge or experience is required. At the end of this course, you will get the basics of Express and Node js.Nodejs is essential to developing real-time applications in JavaScript, and has been instrumental in the development of websites like eBay and PayPal. Node is designed around an event loop, which allows for easy management of asynchronous functions. This makes it a popular environment for modern developers working on chat and gaming apps.Node.js is an open-source, cross-platform, back-end, JavaScript runtime environment that executes JavaScript code outside a web browser.",
+    "students": "2000",
+    "fee": "5000"
+  },
+  {
+    "id": "635887cbb98c9c984158a4ba",
+    "category_id": 2,
+    "picture": "https://i.ibb.co/8DVHw3X/C-Sharp.webp",
+    "title": "Learn-c-sharp",
+    "details": "The C# programming language offers flexible and comprehensive libraries that make it easy to work across operating systems. That’s why it’s widely used by companies like Microsoft and Stack Overflow. Whether you want to develop websites, apps, video games, or virtual reality, building your foundation is key. In this course, you’ll learn C# basics so you can become a more versatile programmer.",
+    "students": "100",
+    "fee": "2500"
+  },
+  {
+    "id": "635887cb385f70750680e44d",
+    "category_id": 4,
+    "picture": "https://i.ibb.co/5vZQh71/laravel9.png",
+    "title": "Master Laravel 9 for Beginners & Intermediate",
+    "details": "Learn Laravel with this brand new course covering Laravel from A-Z for beginners!Laravel is the most popular choice among PHP developers these days. It's easiest to start with, most fun to use and a very performant ecosystem of tools, that just lets you get the job done.Laravel can change the way you look at PHP in general. With PHP 8 ahead, it's a completely different language than it used to be.Laravel is like Ruby on Rails in the PHP world. Or even better. It's expressive, fun, fluent, easy to learn, easy to use. Beginners and professionals alike just love it! You have the chance to join this group of happy people, having fun while building things and getting paid to do so :)This course is the only resource you will ever need (apart from my other courses) to learn everything about Laravel. How to set it up, how to get started, and then, how to achieve all the powerful things modern web development has to offer!",
+    "students": "250",
+    "fee": "2000"
+  },
+  {
+    "id": "635887cb36d7df32b813f953",
+    "category_id": 5,
+    "picture": "https://i.ibb.co/yBfx2pg/js.png",
+    "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+    "details": "JavaScript is the most popular programming language in the world. It powers the entire modern web. It provides millions of high-paying jobs all over the world.That's why you want to learn JavaScript too. And you came to the right place!Why is this the right JavaScript course for you?This is the most complete JavaScript course on Udemy. It's an all-in-one package that will take you from the very fundamentals of JavaScript, all the way to building modern and complex applications.You will learn modern JavaScript from the very beginning, step-by-step. I will guide you through practical and fun code examples, important theory about how JavaScript works behind the scenes, and beautiful and complete projects.You will also learn how to think like a developer, how to plan application features, how to architect your code, how to debug code, and a lot of other real-world skills that you will need on your developer job.And unlike other courses, this one actually contains beginner, intermediate, advanced, and even expert topics, so you don't have to buy any other course in order to master JavaScript from the ground up!But... You don't have to go into all these topics. This is a huge course, because, after all, it's The Complete JavaScript Course. In fact, it's like many courses in one! But you can become an excellent developer by watching only parts of the course. That's why I built this course in a very modular way, and designed pathways that will take you through the course faster.By the end of the course, you will have the knowledge and confidence that you need in order to ace your job interviews and become a professional developer.",
+    "students": "300",
+    "fee": "3500"
+  },
+  {
+    "id": "635887cb1fc3a81dd88758b0",
+    "category_id": 6,
+    "picture": "https://i.ibb.co/cw8R3PX/Python-Symbol.png",
+    "title": "Advanced Python Scripting for Cybersecurity Specialization",
+    "details": "Python is one of the most popular and widely-used programming languages in the world, due to its high usability and a large collection of libraries. This learning path provides an application-driven introduction to using advanced Python features for offensive and defense cybersecurity. This path demonstrates how some of the advanced functionality in Python packages can be applied to cybersecurity and how to automate multi-stage attack chains and defensive operations using Python. This Advanced Python Scripting for Cybersecurity Skills Path builds on the Python for Cybersecurity skills path to demonstrate advanced applications of Python for cybersecurity.",
+    "students": "200",
+    "fee": "3000"
+  }
+]
