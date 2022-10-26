@@ -7,6 +7,9 @@ app.use(cors());
 const categories = require("./data/categories.json");
 const courses = require("./data/courses.json");
 
+app.get("/", (req, res) => {
+  res.send("hello world");
+});
 app.get("/skill-categories", (req, res) => {
   res.send(categories);
 });
